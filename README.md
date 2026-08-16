@@ -1,7 +1,8 @@
 ## Hey guys :P  
 
 ### Random fullstack Unity Developer with 2 years of experience!   
-I specialize in:  
+
+### I specialize in:  
 -3D to Engine & UI Design to Engine pipelines  
 -High level optimization techniques  
 -Gameplay logic programming  
