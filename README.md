@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hey guys :P  
 
-<!--
-**jellobeansx/jellobeansx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Random fullstack Unity Developer with 2 years of experience!   
+I specialize in:  
+-3D to Engine & UI Design to Engine pipelines  
+-High level optimization techniques  
+-Gameplay logic programming  
+  
+### I'm also capable of:  
+-Handling multiplayer infrastructure  
+-Monetization (IAP, ads)  
+-Writing compute shaders  
+  
+## I’m currently working part-time for Plumiplay Labs OÜ, freelancing on Fiverr, and contributing as a community modder for Ravenfield  
+  
+And building cool things :D  
